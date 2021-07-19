@@ -27,16 +27,54 @@
 
 
 
-let person ={
-    name:"Amit",
-    age: 29,
-    get getName() {
-        return this.name.toUpperCase();
+// let person ={
+//     name:"Amit",
+//     age: 29,
+//     get getName() {
+//         return this.name.toUpperCase();
 
-    }
+//     }
      
 
 
-};
+// };
 
-console.log(person.getName);
+// console.log(person.getName);
+
+
+// //
+// let time = {
+//     id:121,
+//     emailId:"crazyone.amit@gmail.com",
+//     personInfo : {
+//         name:"Amit",
+//         addresss : {
+//             city:"patna",
+//             state:"bihar",
+//             pin:800007,
+//         }
+//     }
+// };
+
+// // console.log(time);
+
+// console.log(time.personInfo.addresss);
+
+//  element ID
+
+// let ele2 = document.getElementById("change2");
+// let ele3 = document.getElementsByClassName("ai");
+
+// // ele2.innerHTML="hello";
+
+
+
+// for(let i =0;ele3.length;i++){
+//     ele3[i].innerHTML="hello";
+// }
+// // console.log(ele2);
+// console.log(ele3);
+
+// query selector
+
+
