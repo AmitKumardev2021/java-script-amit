@@ -1,0 +1,22 @@
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(205, 7, 255);
+    border: 2px solid rgb(0, 4, 250);
+    border-radius: 15px;
+}
+
+.container{
+    border: 2px solid red;
+    margin: 3px 0;
+    background-color: cyan;
+
+}
+#click{
+    margin: 0 3px;
+    background-color: chartreuse;
+    color: blue;
+}
