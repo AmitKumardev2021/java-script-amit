@@ -78,3 +78,14 @@
 // query selector
 
 
+// let foot = document.querySelectorAll("p.li");
+// foot[i].innerHTML = "hit this";
+// console.log(foot);
+
+// for(let i =0;i<foot.length;i++){
+//     foot[i].innerHTML = "hitme";
+// }
+
+let pto = document.getElementById("ptr");
+let ptp = pto.children;
+console.log(ptp);
